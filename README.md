@@ -1,2 +1,2 @@
 # Simon-game
-https://pratikcodex.github.io/Simon-game/
+https://pratik20gb.github.io/Simon-game/
